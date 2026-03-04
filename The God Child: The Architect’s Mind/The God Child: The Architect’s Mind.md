@@ -1,5 +1,5 @@
 
-##📽️ Project Overview: The Architect’s Mind
+📽️ Project Overview: The Architect’s Mind
 Logline: Born with the ability to control the universe but abandoned by his wealthy parents, a young man raised in poverty uses a brain-internet link to dismantle global corruption, eventually becoming a digital god.
 👤 Key Characters
 | Character | Role | Background |
